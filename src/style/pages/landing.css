@@ -65,12 +65,12 @@
     bottom: 0;
 
     width: 80px;
-    right: 80;
+    right: 80px;
     background: #ffd666;
     border-radius: 30px;
 
     display: flex;
-    align-items: flex;
+    align-items: center;
     justify-content: center;
 
     transition: background-color 0.2s;
