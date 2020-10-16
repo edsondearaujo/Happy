@@ -1,4 +1,4 @@
-### Esse projeto foi realizado em um dos cursos da Rocktseat em Outubro de 2020 na semana Next Level Week 3. ###
+### Esse projeto foi realizado em um dos cursos da Rocketseat em Outubro de 2020 na semana, Next Level Week 3. ###
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 
 ## Tecnologias
 
-Esse projeto englobou as seguintes tecnologias em seu desenvolvimento:
+Esse projeto engloba as seguintes tecnologias em seu desenvolvimento:
 
 - [Javascript](https://www.javascript.com/)
 - [React](https://reactjs.org)
@@ -25,7 +25,7 @@ O Happy é uma plataforma web que ajuda pessoas interessadas em fazer adoção d
 
 ## Mapa
 
-![Brasília/DF](https://github.com/edsondearaujo/happy-frontend/blob/develop/src/image/mapa.jpg)
+![Brasília/DF](mapa.jpg)
 
 
 ## 🤔 Como contribuir
