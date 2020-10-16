@@ -1,5 +1,12 @@
-### Esse projeto faz parte da semana Next Level Week 3, realizado pela rocktseat em Outubro de 2020. ###
+### Esse projeto foi realizado em um dos cursos da Rocktseat em Outubro de 2020 na semana Next Level Week 3. ###
 
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Mapa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
 ## Tecnologias
 
@@ -32,7 +39,7 @@ Depois que o merge da sua pull request for feito, delete sua branch.
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja mais detalhes no arquivo [LICENSE](LICENSE.md).
+Esse projeto está sob a licença MIT. Veja mais detalhes no arquivo [LICENSE](LICENSE).
 
 ---
 
